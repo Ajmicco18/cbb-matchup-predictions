@@ -4,3 +4,4 @@ An application built using Next.js with a Django Python backend designed to enab
 ## Documentation
 - [Next.js](https://nextjs.org/docs)
 - [Django](https://docs.djangoproject.com/en/6.0/)
+- [Chakra-UI](https://chakra-ui.com/docs/get-started/installation)
